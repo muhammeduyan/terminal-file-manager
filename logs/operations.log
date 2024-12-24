@@ -1,0 +1,14 @@
+[24-12-2024 04:40:21] read: /Users/muhammed/Desktop/test.txt
+[24-12-2024 04:40:32] write: /Users/muhammed/Desktop/test.txt
+[24-12-2024 04:40:40] chmod: /Users/muhammed/Desktop/test.txt
+[24-12-2024 04:40:48] delete: /Users/muhammed/Desktop/test.txt
+[24-12-2024 04:50:14] exit: Program terminated
+[24-12-2024 04:53:25] list: /Users/muhammed/Desktop
+[24-12-2024 04:53:37] mkdir: /Users/muhammed/Desktop/new_folder
+[24-12-2024 04:53:57] rmdir: /Users/muhammed/Desktop/new_folder
+[24-12-2024 04:55:38] exit: Program terminated
+[24-12-2024 04:57:44] search: test.txt
+[24-12-2024 04:58:13] search: test.txt
+[24-12-2024 04:58:37] exit: Program terminated
+[24-12-2024 05:03:10] help: Displayed help menu
+[24-12-2024 05:12:42] exit: Program terminated
